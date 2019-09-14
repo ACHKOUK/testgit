@@ -1,0 +1,1 @@
+document.getElementById("1h").innerHTML = "yes js la ";
